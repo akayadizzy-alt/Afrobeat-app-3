@@ -1,0 +1,8 @@
+- [x] Add compact footer links and live, in-app WordPress pages for verified site policies and information.
+- [x] Add a browser-only song matcher using live catalogue candidates and mobile navigation, with no AI service or database.
+- [x] Remove unused external-account middleware and keep WordPress as the app's only content backend.
+- [x] Test route matching and recommendation filtering; verify preview and current build status.
+- [x] Configure local frontend packaging with Vite and Capacitor, preserving WordPress connections.
+- [x] Generate the Android project and verify local frontend navigation, catalogue, pages, matching, and real playback in desktop/mobile browsers.
+- [x] Document Android build commands and environment limitations.
+- [ ] Generate and sync production dist, then compile and test the APK on Android; requires a local production build, JDK 21, SDK API 36, and an Android device/emulator unavailable here.
